@@ -15,7 +15,7 @@ Master of Applied Computing student at the **University of Windsor**, focused on
 | Project | What it is | Built with |
 |---|---|---|
 | [**forex-rate-scraper**](https://github.com/Malikoye7/forex-rate-scraper) | Selenium scraper that extracts daily exchange rates from the Bank of Canada and exports them to CSV | Java · Selenium |
-| [**text-frequency-analyzer**](https://github.com/Malikoye7/text-frequency-analyzer) | Word-frequency toolkit built on a custom hash table and QuickSort — no `HashMap`, no `Collections.sort` | Java |
+| [**word-frequency-analyzer**](https://github.com/Malikoye7/word-frequency-analyzer) | Word-frequency toolkit on a custom 256-bucket hash table and QuickSort — no `HashMap`, no `Collections.sort` | Java |
 | [**trie-autocomplete**](https://github.com/Malikoye7/trie-autocomplete) | Autocomplete engine on a custom Trie with O(L+W) prefix search | Java |
 
 ---
